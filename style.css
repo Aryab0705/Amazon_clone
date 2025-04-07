@@ -20,7 +20,7 @@
 .logo{
     height: 50px;
     width: 100%;
-    background-image: url(amazonlogo2.webp);
+    background-image: url(assest-2/amazonlogo2.webp);
     background-size: cover;
 }
 .border{
@@ -124,7 +124,7 @@ span{
 }
 /* back-img */
 .back-img{
-    background-image: url(background-img.jpg);
+    background-image: url(assest-2/background-img.jpg);
     background-size: cover;
     height: 380px;
     display: flex;
@@ -235,7 +235,7 @@ ul{
 .logo{
     height: 50px;
     width: 100px;
-    background-image: url(amazonlogo2.webp);
+    background-image: url(assest-2/amazonlogo2.webp);
     background-size: cover;
 }
 .footpanel-4{
